@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/CustomComponents/Dash.js"],"names":["Dash"],"mappings":"oJAAA,uBAUeA,UARF,WACT,OACI","file":"static/js/38.4b0a427d.chunk.js","sourcesContent":["import React from 'react'\r\n\r\nconst Dash = () => {\r\n    return (\r\n        <>\r\n\r\n        </>\r\n    )\r\n}\r\n\r\nexport default Dash"],"sourceRoot":""}

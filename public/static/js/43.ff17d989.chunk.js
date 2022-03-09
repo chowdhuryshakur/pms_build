@@ -1,0 +1,2 @@
+(this["webpackJsonpvuexy-react-admin-dashboard"]=this["webpackJsonpvuexy-react-admin-dashboard"]||[]).push([[43],{1901:function(t,a,e){"use strict";e.r(a);e(463),e(866),e(672);var n=e(542);e(467),e(6);a.default=function(){return Object(n.g)().push("/login"),localStorage.clear(),0}},672:function(t,a,e){},866:function(t,a,e){"use strict";e.r(a),a.default=e.p+"static/media/not-authorized.ee4b4a8b.svg"}}]);
+//# sourceMappingURL=43.ff17d989.chunk.js.map
